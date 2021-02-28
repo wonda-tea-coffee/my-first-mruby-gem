@@ -1,0 +1,7 @@
+name: mruby-first_gem
+description: FirstGem class
+author: wonda-tea-coffee
+website: https://github.com/ishikawa/mruby-first_gem
+protocol: git
+repository: https://github.com/ishikawa/mruby-first_gem.git
+license: MIT
